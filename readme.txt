@@ -1,1 +1,1 @@
- creating a new breanch name dev
+ creating a new breanch is quick and simple
